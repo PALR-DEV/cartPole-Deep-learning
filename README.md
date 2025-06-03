@@ -140,5 +140,4 @@ This file makes it easy to adjust settings like the initial exploration rate (ep
   <source src="./Screen Recording 2025-06-02 at 3.09.32 PM.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-```
 

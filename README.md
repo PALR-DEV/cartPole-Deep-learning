@@ -135,10 +135,3 @@ This file makes it easy to adjust settings like the initial exploration rate (ep
 
 ---
 
-## Questions?
-
-If you have questions or need help understanding the code, please refer to additional RL tutorials online, or feel free to reach out for guidance. The project is well-commented to help beginners understand each component of the RL framework.
-
----
-
-Enjoy training your CartPole agent, and happy coding!

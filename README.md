@@ -17,6 +17,7 @@ Key components include:
 
 ---
 
+
 ## Project Structure
 
 - **agent.py**: Contains the core RL agent logic, training loop, interaction with the environment, and saving/loading models and training graphs.
@@ -137,7 +138,7 @@ This file makes it easy to adjust settings like the initial exploration rate (ep
 
 
 <video width="480" controls>
-  <source src="./Screen Recording 2025-06-02 at 3.09.32 PM.mov" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/986c246e-a7ae-4583-8eec-c36f81e3fd3a" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
